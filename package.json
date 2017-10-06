@@ -1,7 +1,7 @@
 {
-  "name": "public-science-grant",
+  "name": "pdc-legal-tool",
   "version": "0.0.0",
-  "description": "form Public Science Grant for Public Domain Chronicle contributions",
+  "description": "form legal tool for Public Domain Chronicle contributions",
   "author": "Kyle E. Mitchell <kyle@kemitchell.com> (https://kemitchell.com/)",
-  "repository": "publicdomainchronicle/public-science-grant"
+  "repository": "publicdomainchronicle/pdc-legal-tool"
 }
